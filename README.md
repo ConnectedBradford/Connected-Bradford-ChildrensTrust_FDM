@@ -4,6 +4,10 @@
 
 CB_FDM_ChildrensTrust
 
+> [!WARNING]  
+> THIS information is out of date and subject to review. (20/04/2026)
+> 
+
 This dataset contains documentation for the ChildrensTrust data, sourced from Bradford Council and fully anonymised for use in the Connected Yorkshire project. It includes routinely collected clinical and social care data for 23,597 children, covering the period from 2004-01-29 to 2025-05-01.
 
 Dataset Overview
